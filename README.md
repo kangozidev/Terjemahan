@@ -1,2 +1,2 @@
 # Terjemahan
-Koleksi Terjemahan Novel Horror menggunakan Axinemo
+Koleksi Terjemahan Ebook menggunakan Axinemo
